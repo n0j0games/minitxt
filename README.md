@@ -1,5 +1,5 @@
 # MINITXT
-Small Text Editor
+Small text editor made with electron based on html, css & javascript. Still WIP
 
 ## Installation
 (using node.js)
