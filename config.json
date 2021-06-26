@@ -1,0 +1,16 @@
+{
+  "font" : {
+    "name" : "Roboto Mono",
+    "type" : "monospace",
+    "weight" : 400,
+    "size" : 24
+  },
+  "colors" : {
+    "background" : null,
+    "darkAccent" : null,
+    "lightAccent" : null,
+    "number" : null,
+    "UItext" : null,
+    "text" : null
+  }
+}
