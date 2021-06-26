@@ -1,0 +1,25 @@
+Hello There!
+
+Thanks for installing MINITXT
+Open "config.json" to configurate this editor.
+
+
+FONT:
+
+You can choose between the following fonts: (default: Roboto Mono)
+- monospace: Roboto Mono, 
+- Roboto, sans-serif
+- Barlow, sans-serif
+OR enter another font from 'Google Fonts'
+(Note: some fonts may not support every font weight)
+
+You can also change the font size, letter and line-spacing and more (TBD)
+
+
+COLORS:
+
+You may select your own colors. The color should have a css-common format
+( e.g. "white", "#FFFFFF", "rgb(0,0,0)", "rgba(0,0,0,0)" )
+
+Version: 0.0.1
+(C) 2021 noahschuette.de

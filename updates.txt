@@ -1,0 +1,14 @@
+Update Log - v0.0.1
+
++ took functions from old editor
++ updated UI
++ line numeration
++ functional tab-key
++ closing open brackets
+
+TODO:
+- keep directory from file opening
+- quick save
+- left tooltip menu
+- darkmode on/off
+- syntax highlighting (currently not possible)
