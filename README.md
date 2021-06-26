@@ -8,3 +8,10 @@ Small Text Editor
 * cd into the directory
 * type `npm install electron --save def` to install electron
 * run app with `npm start`
+
+### Create shortcut
+You can also run the app via a batch file (or a shortcut to this file):
+```
+cd <your directory>
+npm start
+```
