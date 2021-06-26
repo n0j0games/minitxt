@@ -1,7 +1,7 @@
-# minitxt
+# MINITXT
 Small Text Editor
 
-## installation
+## Installation
 (using node.js)
 
 * Install node.js on your device
