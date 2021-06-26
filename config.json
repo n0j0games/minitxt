@@ -1,9 +1,9 @@
 {
   "font" : {
-    "name" : "Roboto Mono",
+    "name" : "JetBrains Mono",
     "type" : "monospace",
     "weight" : 400,
-    "size" : 24
+    "size" : 20
   },
   "colors" : {
     "background" : null,

@@ -9,6 +9,7 @@ Update Log - v0.0.1
 TODO:
 - keep directory from file opening
 - quick save
+- dark top-bar including file-title, remove "MINITXT" (only icon)
 - left tooltip menu
-- darkmode on/off
-- syntax highlighting (currently not possible)
+- simple darkmode on/off
+- syntax highlighting (currently not possible, maybe read-only?)
