@@ -1,3 +1,6 @@
+![GitHub package.json version](https://img.shields.io/github/package-json/v/n0j0games/minitxt?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/n0j0games/minitxt?style=for-the-badge)
+
 # MINITXT
 Small text editor made with electron based on html, css & javascript. Still WIP
 
