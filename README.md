@@ -4,6 +4,9 @@
 # MINITXT
 Small text editor made with electron based on html, css & javascript. Still WIP
 
+## Issue
+<p style="color:red;">Installation currently not working</p>
+
 ## Installation
 
 * Install [node.js](https://nodejs.org) on your device
